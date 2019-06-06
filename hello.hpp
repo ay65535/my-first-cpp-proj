@@ -1,6 +1,0 @@
-#ifndef MY_FIRST_CPP_PROJ_HELLO_HPP
-#define MY_FIRST_CPP_PROJ_HELLO_HPP
-
-void hello();
-
-#endif //MY_FIRST_CPP_PROJ_HELLO_HPP

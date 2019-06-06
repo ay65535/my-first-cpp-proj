@@ -10,4 +10,4 @@ add_executable(my_first_cpp_proj
         PMMotor.cpp PMMotor.hpp
         PMCoord.cpp PMCoord.hpp
         PMEncTable.cpp PMEncTable.hpp
-        hello.cpp hello.hpp)
+        )
