@@ -1,0 +1,10 @@
+#ifndef MY_FIRST_CPP_PROJ_PMGATE3_HPP
+#define MY_FIRST_CPP_PROJ_PMGATE3_HPP
+
+
+class PMGate3 {
+
+};
+
+
+#endif //MY_FIRST_CPP_PROJ_PMGATE3_HPP

@@ -1,0 +1,10 @@
+#ifndef MY_FIRST_CPP_PROJ_PMCOORD_HPP
+#define MY_FIRST_CPP_PROJ_PMCOORD_HPP
+
+
+class PMCoord {
+
+};
+
+
+#endif //MY_FIRST_CPP_PROJ_PMCOORD_HPP

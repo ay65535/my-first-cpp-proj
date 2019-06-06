@@ -1,0 +1,10 @@
+#ifndef MY_FIRST_CPP_PROJ_PMMOTOR_HPP
+#define MY_FIRST_CPP_PROJ_PMMOTOR_HPP
+
+
+class PMMotor {
+
+};
+
+
+#endif //MY_FIRST_CPP_PROJ_PMMOTOR_HPP
