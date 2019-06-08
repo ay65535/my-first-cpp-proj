@@ -1,5 +1,5 @@
-#ifndef MY_FIRST_CPP_PROJ_PMSYS_HPP
-#define MY_FIRST_CPP_PROJ_PMSYS_HPP
+#ifndef MY_FIRST_CPP_PROJ_PM_SYS_HPP
+#define MY_FIRST_CPP_PROJ_PM_SYS_HPP
 
 class PMSys {
 public:
@@ -40,6 +40,9 @@ public:
     double IEC61131 = 0;
     double IECBgEventPeriod = 3;
     double IECRtiEventPeriod = 9;
+    const double ServoCtrl = 0x00000000;
+    unsigned int SineTable[2]{};
+    unsigned int pushm{};
 };
 
-#endif //MY_FIRST_CPP_PROJ_PMSYS_HPP
+#endif //MY_FIRST_CPP_PROJ_PM_SYS_HPP

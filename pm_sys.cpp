@@ -1,4 +1,4 @@
-#include "PMSys.hpp"
+#include "pm_sys.hpp"
 
 PMSys::PMSys() {
     //-------------------------------------------
@@ -99,4 +99,5 @@ PMSys::PMSys() {
     IEC61131 = 0;
     IECBgEventPeriod = 3;
     IECRtiEventPeriod = 9;
+    pushm = 0x0;
 };

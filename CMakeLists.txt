@@ -5,9 +5,11 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(my_first_cpp_proj
         main.cpp
-        PMSys.cpp PMSys.hpp
-        PMGate3.cpp PMGate3.hpp
-        PMMotor.cpp PMMotor.hpp
-        PMCoord.cpp PMCoord.hpp
-        PMEncTable.cpp PMEncTable.hpp
+        pm_sys.cpp pm_sys.hpp
+        pm_chan.cpp pm_chan.hpp
+        pm_gate3.cpp pm_gate3.hpp
+        pm_servo.cpp pm_servo.hpp
+        pm_motor.cpp pm_motor.hpp
+        pm_coord.cpp pm_coord.hpp
+        pm_enctable.cpp pm_enctable.hpp
         )
