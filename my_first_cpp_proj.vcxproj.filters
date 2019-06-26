@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_sys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_chan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_gate3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_servo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_motor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_coord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_enctable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_sys.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_chan.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_gate3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_servo.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_motor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_coord.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\pm_enctable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ats\source\repos\ay65535\my-first-cpp-proj\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1C6E3FC5-C8E7-3DA7-8805-5CFF5C5CD526}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C244D409-1602-355A-AE06-E15C909F9942}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
