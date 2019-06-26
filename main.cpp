@@ -12,6 +12,10 @@ int main() {
     PMEncTable EncTable[42];
 
     Sys.ServoPeriod = 1.0;
-    std::cout << "Sys.ServoPeriod: " << Sys.ServoPeriod << std::endl;
+    std::cout << "Sys.ServoPeriod=" << Sys.ServoPeriod << std::endl;
+
+    Motor[1].WarnFeLimit = 1000.0;
+    std::cout << "Motor[1].WarnFeLimit=" << Motor[1].WarnFeLimit << std::endl;
+
     return 0;
 }
