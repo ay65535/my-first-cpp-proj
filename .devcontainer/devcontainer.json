@@ -19,7 +19,7 @@
 	"extensions": [
 		"ms-vscode.cpptools",
 		"ms-ceintl.vscode-language-pack-ja",
-		"visualstudioexptteam.vscodeintellicode",
-		"vector-of-bool.cmake-tools"
+		"vector-of-bool.cmake-tools",
+		"twxs.cmake"
 	]
 }

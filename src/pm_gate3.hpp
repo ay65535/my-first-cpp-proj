@@ -9,6 +9,8 @@ class PMGate3 {
 public:
     PMGate3();
 
+    double PhaseFreq();
+
     //-------------------------------------------
     // save gate array data
     //-------------------------------------------
